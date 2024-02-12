@@ -1,0 +1,287 @@
+[
+    {
+        "title": "Sea Life Bangkok Ocean World",
+        "subtitle": "เปิดทำการทุกวัน ตั้งแต่เวลา 10.00 น. - 20.00 น. (เข้าชมรอบสุดท้ายเวลา 19.00 น.)",
+        "imageUri": "https://cms.dmpcdn.com/travel/2021/10/14/53962cd0-2ce0-11ec-be9d-838428bcfc5b_original.jpg",
+        "postback": "https://www.facebook.com/SEALIFEBangkokOceanWorld/",
+        "type": [
+            "exhibition"
+        ],
+        "price": 650
+    },
+    {
+        "title": "SIAM DISCOVERY",
+        "subtitle": "เปิดทำการทุกวัน ตั้งแต่เวลา 10.00 น. - 21.00 น.",
+        "imageUri": "https://www.brandbuffet.in.th/wp-content/uploads/2016/05/siam-discovery-opening-bk.jpg",
+        "postback": "https://www.siamdiscovery.co.th/",
+        "type": [
+            "shopping",
+            "entertain"
+        ],
+        "price": 0
+    },
+    {
+        "title": "madame tussauds",
+        "subtitle": "เปิดทำการทุกวัน ตั้งแต่เวลา 10.00 น. - 20.00 น. (เข้าชมรอบสุดท้ายเวลา 19.00 น.)",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961226775977938984/unknown.png",
+        "postback": "https://th-th.facebook.com/MadameTussaudsBangkok/",
+        "type": [
+            "exhibition"
+        ],
+        "price": 450
+    },
+    {
+        "title": "Lazgam Laser Games",
+        "subtitle": "เปิดทำการ จันทร์-ศุกร์ 13.00-22.00 น. เสาร์-อาทิตย์ 10.00-22.00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961228615096344616/unknown.png",
+        "postback": "https://travel.kapook.com/view148496.html",
+        "type": [
+            "entertain"
+        ],
+        "price": 350
+    },
+    {
+        "title": "หอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร",
+        "subtitle": "เปิดวันอังคาร-วันอาทิตย์ เวลา 10.00 - 19.00 น. ห้องนิทรรศการหลักชั้น 7 - 9 เปิดให้เข้าชมถึงเวลา 18.30 น. (หยุดทุกวันจันทร์ และช่วงวันหยุดปีใหม่และสงกรานต์)",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961440519374917712/unknown.png",
+        "postback": "https://www.bacc.or.th/",
+        "type": [
+            "exhibition"
+        ],
+        "price": 0
+    },
+    {
+        "title": "Sanrio Hello Kitty House Bangkok",
+        "subtitle": "เปิดทำการทุกวัน 10:00 - 22:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961439931039899688/unknown.png",
+        "postback": "https://www.wongnai.com/restaurants/157453su-sanrio-hello-kitty-house-bangkok-siam-square-one",
+        "type": [
+            "minimal"
+        ],
+        "price": 0
+    },
+    {
+        "title": "หอศิลป์จามจุรี",
+        "subtitle": "เวลาทำการ วันจันทร์-ศุกร์ เวลา 9.00-16.30 น. วันเสาร์-อาทิตย์ และวันหยุดนักขัตฤกษ์ เวลา 12.00-18.00 น. ปิดช่วงเทศกาลวันปีใหม่และวันสงกรานต์",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961442126191808512/unknown.png",
+        "postback": "https://www.cuartculture.chula.ac.th/services/chamchuri-art-gallery/",
+        "type": [
+            "exhibition"
+        ],
+        "price": 0
+    },
+    {
+        "title": "วัดปทุมวนารามราชวรวิหาร",
+        "subtitle": "เปิดทำการทุกวัน 07.00 -18.00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961442607169409054/unknown.png",
+        "postback": "https://www.wongnai.com/attractions/345075bE-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3",
+        "type": [
+            "religion"
+        ],
+        "price": 0
+    },
+    {
+        "title": "SkyScape",
+        "subtitle": "เปิดทำการทุกวัน 10:00 - 20:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961444619906875402/unknown.png",
+        "postback": "https://travel.trueid.net/detail/2WKVQjoORekv",
+        "type": [
+            "nature"
+        ],
+        "price": 0
+    },
+    {
+        "title": "Escape Room Bangkok",
+        "subtitle": "เปิดทำการทุกวัน 11:00 - 20:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961445282447491122/unknown.png",
+        "postback": "https://www.chillpainai.com/scoop/8857/",
+        "type": [
+            "entertain"
+        ],
+        "price": 550
+    },
+    {
+        "title": "Zero Latency Thailand",
+        "subtitle": "เปิดทำการทุกวัน 11:00 - 22:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961445987652608020/unknown.png",
+        "postback": "https://amazingcouple.net/sr-zero-latency-thailand/",
+        "type": [
+            "entertain"
+        ],
+        "price": 1200
+    },
+    {
+        "title": "Mil Toast House",
+        "subtitle": "เปิดทำการทุกวัน 11:00 - 22:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961227967302873138/unknown.png",
+        "postback": "https://www.cuartculture.chula.ac.th/services/chamchuri-art-gallery/",
+        "type": [
+            "minimal"
+        ],
+        "price": 0
+    },
+    {
+        "title": "Playsquare Laser Tag",
+        "subtitle": "เปิดทำการทุกวัน จันทร์-ศุกร์ 11:00 - 20:00 น. เสาร์-อาทิตย์ 10:30 - 20:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961446244339826778/unknown.png",
+        "postback": "https://www.thaiticketmajor.com/variety/travel/10626/",
+        "type": [
+            "entertain"
+        ],
+        "price": 500
+    },
+    {
+        "title": "SF strike bow MBK",
+        "subtitle": "เปิดทำการทุกวัน 10:00 - 22:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961449652354416710/unknown.png",
+        "postback": "https://www.tripadvisor.com/Attraction_Review-g293916-d4567507-Reviews-SF_Strike_Bowl-Bangkok.html",
+        "type": [
+            "entertain"
+        ],
+        "price": 300
+    },
+    {
+        "title": "Line Village store",
+        "subtitle": "เปิดทำการทุกวัน 10:00 - 22:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961449902477541376/unknown.png",
+        "postback": "https://www.mangozero.com/review-line-village-bangkok-the-digital-adventure/",
+        "type": [
+            "exhibition"
+        ],
+        "price": 850
+    },
+    {
+        "title": "MBK Center",
+        "subtitle": "เปิดทำการทุกวัน 11:00 - 21:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961450582739153006/unknown.png",
+        "postback": "https://mbk-center.co.th/",
+        "type": [
+            "shopping"
+        ],
+        "price": 0
+    },
+    {
+        "title": "Siam Square One",
+        "subtitle": "เปิดทำการทุกวัน 10:00 - 22:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961451026995617803/unknown.png",
+        "postback": "https://pmcu.co.th/?page_id=13285",
+        "type": [
+            "shopping",
+            "entertain"
+        ],
+        "price": 0
+    },
+    {
+        "title": "Platinum Fashion Mall",
+        "subtitle": "(โซน 2) เปิดทุกวันเวลา 9:00-20:00 น. วันพุธ วันเสาร์ วันอาทิตย์ และวันหยุดนักขัตฤกษ์เวลา 8:00-20:00 น (โซน 3) เปิดทุกวันเวลา 9:00-20:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961452212075257956/unknown.png",
+        "postback": "https://www.estateis.com/properties/platinum-shopping-mall/#carousel-listing",
+        "type": [
+            "shopping"
+        ],
+        "price": 0
+    },
+    {
+        "title": "Central world",
+        "subtitle": "เปิดทำการทุกวัน 11.00 - 20.00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961452580913950740/unknown.png",
+        "postback": "https://www.central.co.th/en/store/central-at-central-world",
+        "type": [
+            "shopping",
+            "entertain"
+        ],
+        "price": 0
+    },
+    {
+        "title": "Be my glaze",
+        "subtitle": "เปิดทุกวัน 11.00 - 20.00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/961227967302873138/unknown.png",
+        "postback": "https://www.cuartculture.chula.ac.th/services/chamchuri-art-gallery/",
+        "type": [
+            "minimal"
+        ],
+        "price": 100
+    },
+    {
+        "title": "Machi Machi Thailand",
+        "subtitle": "เปิดทุกวัน 11.00 - 21.00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/967560475166519376/unknown.png",
+        "postback": "https://www.bkkmenu.com/eat/we-recommend/machi-machi-thailand.html",
+        "type": [
+            "minimal"
+        ],
+        "price": 100
+    },
+    {
+        "title": "THE JIM THOMPSON HOUSE MUSEUM",
+        "subtitle": "เปิดทุกวัน 10:00 – 18:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/967562875608641586/unknown.png",
+        "postback": "https://www.jimthompsonhouse.com/",
+        "type": [
+            "minimal"
+        ],
+        "price": 200
+    },
+    {
+        "title": "สวนงู สถานเสาวภา สภากาชาดไทย",
+        "subtitle": "เปิดทุกวัน วันจันทร์ - วันศุกร์ เวลา 9.30 – 15.30 น. - วันเสาร์ วันอาทิตย์ และวันหยุดนักขัตฤกษ์ เวลา 9.30 – 13.00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/967573136767848518/unknown.png",
+        "postback": "https://saovabha.org/service_saovabha/Snake-Farm-Services",
+        "type": [
+            "exhibition",
+            "nature"
+        ],
+        "price": 40
+    },
+    {
+        "title": "อุทยาน 100 ปี จุฬาลงกรณ์มหาวิทยาลัย",
+        "subtitle": "เปิดทุกวัน 06:00 – 20:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/967574235901984768/unknown.png",
+        "postback": "https://pmcu.co.th/?page_id=9921",
+        "type": [
+            "exhibition"
+        ],
+        "price": 40
+    },
+    {
+        "title": "บ้านปาร์คนายเลิศ",
+        "subtitle": "เปิดทุกวัน 09:00 – 21:00 น. ยกเว้นวันจันทร์ อังคาร",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/967577479004971018/unknown.png",
+        "postback": "https://readthecloud.co/location-park-nai-lert/",
+        "type": [
+            "exhibition"
+        ],
+        "price": 40
+    },
+    {
+        "title": "gaysorn village",
+        "subtitle": "เปิดทุกวัน 10:00 – 20:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/967580138390818856/unknown.png",
+        "postback": "https://www.ryoiireview.com/article/restaurants-gaysorn-village/",
+        "type": [
+            "shopping",
+            "entertain"
+        ],
+        "price": 40
+    },
+    {
+        "title": "อุทยาน 100 ปี จุฬาลงกรณ์มหาวิทยาลัย",
+        "subtitle": "เปิดทุกวัน 06:00 – 20:00 น.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/967574235901984768/unknown.png",
+        "postback": "https://pmcu.co.th/?page_id=9921",
+        "type": [
+            "exhibition"
+        ],
+        "price": 40
+    },
+    {
+        "title": "ศาลพระพิฆเนศวร” เซ็นทรัลเวิลด์",
+        "subtitle": "เปิด 24 ชม.",
+        "imageUri": "https://cdn.discordapp.com/attachments/961226138045255750/967583409381736509/unknown.png",
+        "postback": "https://religiousbangkok.home.blog/2019/04/02/%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B9%80%E0%B8%99%E0%B8%A8%E0%B8%A7%E0%B8%A3-%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%A5/",
+        "type": [
+            "religion"
+        ],
+        "price": 40
+    }
+]

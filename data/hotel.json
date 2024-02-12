@@ -1,0 +1,121 @@
+[
+    {
+        "type": ["hostel"],
+        "name": "Siam Eco Hostel",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/984978376076972052/unknown.png",
+        "web": "https://cdn.discordapp.com/attachments/972401382193778701/975688003202711552/unknown.png",
+        "price": [
+            "฿฿฿"
+        ],
+        "location": "เลขที่ 486/106-107, ถนน เพชรบุรี แขวง ถนนเพชรบุรี เขตราชเทวี กรุงเทพมหานคร 10400"
+    },
+    {
+        "type": ["hostel"],
+        "name": "Nivas Siam Hostel",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/975688662354391151/unknown.png",
+        "web": "https://www.agoda.com/search?device=c&network=g&adid=579341956962&rand=1173032346773583932&expid=&adpos=&aud=kwd-345454223710&selectedproperty=2616911&city=9395&site_id=1891451&tag=107911fe-bbf9-41ec-bced-b8ca64dc68b1&gclid=CjwKCAjw7IeUBhBbEiwADhiEMZVspRJztSKXp3VKERMalQAQS8ikyw9HzZXMQBegokwiNJOr2kKloBoC-V4QAvD_BwE",
+        "price": [
+            "฿฿฿฿"
+        ],
+        "location": "52/6-8 Soi Wat Yai Srisuphan 2, Road, ถ. อินทรพิทักษ์ แขวง หิรัญรูจี เขตธนบุรี กรุงเทพมหานคร 10600"
+    },
+    {
+        "type": ["hostel"],
+        "name": "Siam Stadium Hostel",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/984978014330822687/unknown.png",
+        "web": "https://pix10.agoda.net/hotelImages/497/4970188/4970188_18051114140065359256.jpg?ca=13&ce=1&s=1024x768",
+        "price": [
+            "฿฿฿฿"
+        ],
+        "location": "134 ถนน พระรามที่ ๑ แขวง วังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330"
+    },
+    {
+        "type": ["hotel"],
+        "name": "Le Siam Hotel",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/975689473046220850/unknown.png",
+        "web": "https://www.agoda.com/search?device=c&network=g&adid=579025156960&rand=10598694046325481439&expid=&adpos=&aud=kwd-78574413452&selectedproperty=10704&city=9395&site_id=1891451&tag=3f6a978a-a6cf-4333-a028-87282b17e0d9&gclid=CjwKCAjw7IeUBhBbEiwADhiEMTAolHhvpTIsM4HzrK4yRUPfJ5alwtWdmdX7ON-CpTKvLXeC2qCMfRoCHpgQAvD_BwE&checkin=2022-05-25&checkout=2022-05-26&adults=1&children=0&rooms=1&los=1",
+        "price": [
+            "฿฿฿฿"
+        ],
+        "location": "3 ถนน คอนแวนต์ แขวง สีลม เขตบางรัก กรุงเทพมหานคร 10500"
+    },
+    {
+        "type": ["hotel"],
+        "name": "Novotel Siam Square",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/983264303136272444/unknown.png",
+        "web": "https://www.novotelbkk.com/th/",
+        "price": [
+            "฿฿฿฿"
+        ],
+        "location": "991/9 ถนน พระรามที่ ๑ แขวง ปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330"
+    },
+    {
+        "type": ["hotel"],
+        "name": "Rosewood Bangkok",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/975692853554581504/unknown.png",
+        "web": "https://www.agoda.com/rosewood-bangkok/hotel/bangkok-th.html?cid=1844104",
+        "price": [
+            "฿฿฿฿",
+            "฿฿฿฿฿"
+        ],
+        "location": "52/6-8 Soi Wat Yai Srisuphan 2, Road, ถ. อินทรพิทักษ์ แขวง หิรัญรูจี เขตธนบุรี กรุงเทพมหานคร 10600"
+    },
+    {
+        "type": ["hotel"],
+        "name": "Kempinski",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/975690576668274759/unknown.png",
+        "web": "https://www.agoda.com/siam-kempinski-hotel-bangkok/hotel/bangkok-th.html?cid=1844104",
+        "price": [
+            "฿฿฿฿฿",
+            "฿฿฿฿฿฿"
+        ],
+        "location": "991/9 ถนน พระรามที่ ๑ แขวง ปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330"
+    },
+    {
+        "type": [
+            "condo"
+        ],
+        "name": "คอนโด ideoQ",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/975696780215844904/unknown.png",
+        "web": "https://www.livinginsider.com/livingdetail/528659/%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%94-ideoQ%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%99-%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87-28-91.html",
+        "price": [
+            "฿฿฿฿฿"
+        ],
+        "location": "คอนโด ideoQ Siam"
+    },
+    {
+        "type": ["hotel"],
+        "name": "Mandarin Oriental Bangkok",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/983347217886748672/unknown.png",
+        "web": "https://www.mandarinoriental.com/bangkok/chao-phraya-river/luxury-hotel",
+        "price": [
+            "฿฿฿฿฿",
+            "฿฿฿฿฿฿"
+        ],
+        "location": "48 ซอย โอเรียนเต็ล อเวนิว แขวง บางรัก เขตบางรัก กรุงเทพมหานคร 10500"
+    },
+    {
+        "type": [
+            "condo"
+        ],
+        "name": "Ashton",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/975697230021402644/unknown.png",
+        "web": "https://www.livinginsider.com/livingdetail/1104894/%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2-%E0%B9%81%E0%B8%AD%E0%B8%8A%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2-27000%E0%B8%9A-%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%9955-1bed-35%E0%B8%95%E0%B8%A3%E0%B8%A1-%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B8%9B-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B8%A3%E0%B8%B9-%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B8%87-%E0%B9%80%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87.html",
+        "price": [
+            "฿฿฿฿฿"
+        ],
+        "location": "Ashton silom"
+    },
+    {
+        "type": [
+            "condo"
+        ],
+        "name": "Triple Y residence",
+        "imgurl": "https://cdn.discordapp.com/attachments/972401382193778701/975697861125763142/unknown.png",
+        "web": "https://www.livinginsider.com/livingdetail/1020052/%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B8%A7%E0%B8%B2%E0%B8%A2-%E0%B9%80%E0%B8%A3%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%99%E0%B8%8B%E0%B9%8C-Line-ID-m678-%E0%B8%A1%E0%B8%B5-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%B0-%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B0%E0%B8%84%E0%B8%B0-%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%B8%E0%B8%A2%E0%B8%81%E0%B8%B1.html",
+        "price": [
+            "฿฿฿฿฿"
+        ],
+        "location": "Triple Y residence Samyan"
+    }
+]

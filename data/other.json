@@ -1,0 +1,75 @@
+[
+    {
+        "type": "child",
+        "name":"KUMON",
+        "description":"ศูนย์กวดวิชาที่สอนทางด้านวิชาคณิตศาสตร์และภาษา",
+        "imgurl":"https://cdn.discordapp.com/attachments/972401382193778701/986522620537212959/unknown.png",
+        "web":"https://www.facebook.com/siamparagonshopping/posts/2190112867698639/",
+        "location":"4th Floor, Siam Paragon, 991 ถนน พระรามที่ ๑ แขวง ปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330",
+        "price":"฿฿฿฿"
+    }, 
+    {
+        "type": "child",
+        "name":"Code Genius",
+        "description":"ศูนย์กวดวิชาที่สร้างหลักสูตรการเรียนรู้ผ่านการเขียนโค้ดที่มีคุณภาพอย่างต่อเนื่อง",
+        "imgurl":"https://cdn.discordapp.com/attachments/972401382193778701/986522620537212959/unknown.png",
+        "web":"https://www.facebook.com/codegeniusacademy/",
+        "location":"4th Floor, Siam Paragon, Edutainment Zone, 991 ถนน พระรามที่ ๑ เขตปทุมวัน กรุงเทพมหานคร 10330",
+        "price":"฿฿฿฿"
+    },
+    {
+        "type": "child",
+        "name":"Star Maker Voice Academy",
+        "description":"ศูนย์กวดวิชาที่มีคอร์สหลักสูตรเทคนิคการใช้เสียงและลีลาตั้งแต่ขั้นต้นถึงขั้นสูง",
+        "imgurl":"https://cdn.discordapp.com/attachments/972401382193778701/986524951072866304/unknown.png",
+        "web":"https://www.facebook.com/StarMakerShow/",
+        "location":"4th Floor, Siam Paragon, 991 ถนน พระรามที่ ๑ แขวง ปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330",
+        "price":"฿฿฿฿"
+    },
+    {
+        "type": "child",
+        "name":"ECC",
+        "description":"สถาบันสอนภาษาทั้งภาษาญี่ปุ่น เกาหลี ฝรั่งเศส เยอรมัน",
+        "imgurl":"https://cdn.discordapp.com/attachments/972401382193778701/986532123685040208/unknown.png",
+        "web":"https://www.facebook.com/ECCThailand/",
+        "location":"991 ห้องเลขที่ 4A10 (Education Center) อาคารศูนย์การค้าสยามพารกอน ถ.พระราม 1 ปทุมวัน กรุงเทพมหานคร 10330",
+        "price":"฿฿฿฿"
+    },
+    {
+        "type": "adult",
+        "name":"Virgin Active Fitness Club Siam Discovery",
+        "description":"Fitness",
+        "imgurl":"https://cdn.discordapp.com/attachments/972401382193778701/986533294143332372/unknown.png",
+        "web":"https://www.virginactive.co.th/home/our_clubs/siam_discovery.aspx",
+        "location":"989 ถนน พระรามที่ ๑ แขวง ปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330",
+        "price":"฿฿฿฿"
+    },
+    {
+        "type": "adult",
+        "name":"Fitness First - Platinum Siam Paragon",
+        "description":"Fitness",
+        "imgurl":"https://cdn.discordapp.com/attachments/972401382193778701/986533535219326996/unknown.png",
+        "web":"https://www.fitnessfirst.co.th/th/clubs/platinum-siam-paragon",
+        "location":"4th Floor No, Siam Paragon Shoping Center, 991 ถนน พระรามที่ ๑ เขตปทุมวัน กรุงเทพมหานคร 10330",
+        "price":"฿฿฿฿"
+    },
+    {
+        "type": "adult",
+        "name":"TREASURE SPA & SALON (SIAM SQUARE BRANCH)",
+        "description":"Spa",
+        "imgurl":"https://cdn.discordapp.com/attachments/972401382193778701/986539560324440154/unknown.png",
+        "web":"https://www.facebook.com/TreasureSpa.SiamSquare/",
+        "location":"388, Siam Square One SS6009, Floor 6, แขวง ปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330",
+        "price":"฿฿฿฿"
+    },
+    {
+        "type": "adult",
+        "name":"LET'S RELAX BANGKOK CENTRAL WORLD",
+        "description":"Spa",
+        "imgurl":"https://cdn.discordapp.com/attachments/972401382193778701/986540930179944508/unknown.png",
+        "web":"https://letsrelaxspa.com/th/branch/bangkok-leisure-space-centralworld/",
+        "location":"No 4,4/1-4/2,4/4 Central World Departmentstore ,2nd Floor,Room No D205",
+        "price":"฿฿฿฿"
+    }
+    
+]
